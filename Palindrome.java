@@ -1,4 +1,5 @@
-package com.mysolutions;
+package com.java.solutions;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
